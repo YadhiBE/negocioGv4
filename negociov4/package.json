@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  },
+  "name": "Guarderia",
+  "version": "1.0.0",
+  "description": "Sitio web para un negocio",
+  "main": "index.js",
+  "author": "YadhiBE",
+  "license": "MIT"
+}

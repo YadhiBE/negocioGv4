@@ -1,0 +1,17 @@
+{
+    "name": "yadhi/negocio",
+    "description": "Programa de mi negocio web de Guarderia y cuidado de ni\u0000os",
+    "type": "project",
+    "authors": [
+        {
+            "name": "YadhiBE",
+            "email": "sempaiiiiiyadhi@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^6.19",
+        "illuminate/events": "^6.19",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}
